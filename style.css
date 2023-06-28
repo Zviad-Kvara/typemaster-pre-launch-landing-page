@@ -36,6 +36,7 @@ main {
   display: flex;
   align-content: center;
   flex-direction: column;
+  transition: 0.5s all;
 }
 .header-div {
   width: 375px;
